@@ -1,0 +1,4 @@
+*.tmproj
+tmtags
+.DS_Store
+html/js/gibberer_config.json
